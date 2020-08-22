@@ -7,7 +7,7 @@ This is part of a project: traffic lights simulation with detection and reductio
 
 [Paper-2 (English) ](https://www.springer.com/gp/book/9783030575656)
 
-[Undergraduate thesis (Portugese) ](https://engcomputacaopaudosferros.ufersa.edu.br/wp-content/uploads/sites/87/2018/06/tcc_cibely.pdf)
+[Undergraduate thesis (Portuguese) ](https://engcomputacaopaudosferros.ufersa.edu.br/wp-content/uploads/sites/87/2018/06/tcc_cibely.pdf)
 
 
 # Scene used in the simulation
