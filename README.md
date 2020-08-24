@@ -12,3 +12,13 @@ This is part of a project: traffic lights simulation with detection and reductio
 
 # Scene used in the simulation 🛑
 ![Figure](https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/FOTO_AEREA.png)
+
+#Sensor IR
+
+    I. Emitter
+    
+ ![Figure](https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/infra1.png)   
+    
+    II. Receiver 
+    
+ ![Figure](https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/receptor.png)   
