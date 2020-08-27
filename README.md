@@ -2,6 +2,7 @@
 
 This is part of a project: traffic lights simulation with detection and reductionof pedestrian waiting time in traffic light 🚦___🚶____🚗
 
+[Simulation 🎞](https://www.youtube.com/watch?v=acUIbqaz8h4)
 
 [Paper-1 (English) ](http://lcv.fee.unicamp.br/images/BTSym18/Papers/030.pdf)
 
