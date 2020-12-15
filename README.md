@@ -4,9 +4,9 @@ This is part of a project: traffic lights simulation with detection and reductio
 
 [Simulation 🎞](https://www.youtube.com/watch?v=acUIbqaz8h4)
 
-[Paper-1 (English) ](http://lcv.fee.unicamp.br/images/BTSym18/Papers/030.pdf)
+[Paper-1: Presence sensor for people detection and reductionof pedestrian waiting time in traffic light ](http://lcv.fee.unicamp.br/images/BTSym18/Papers/030.pdf)
 
-[Paper-2 (English) ](https://www.springer.com/gp/book/9783030575656)
+[Paper-2: Presence Sensors: A Comparison Between the Ultrasonic and the Infrared in the Detection of People and Vehicles ](https://doi.org/10.1007/978-3-030-57548-9_54)
 
 [Undergraduate thesis (Portuguese) ](https://engcomputacaopaudosferros.ufersa.edu.br/wp-content/uploads/sites/87/2018/06/tcc.pdf)
 
