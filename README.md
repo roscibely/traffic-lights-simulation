@@ -1,6 +1,6 @@
-# Traffic Lights Simulation with AnyLogic Personal Learning Edition  🚥
+# Traffic Lights Simulation with AnyLogic [Personal Learning Edition]  🚥
 
-This is part of a project: traffic lights simulation with detection and reductionof pedestrian waiting time in traffic light 🚦___🚶____🚗
+This is part of a project: traffic lights simulation with detection and reduction of pedestrian waiting time in traffic light 🚦___🚶____🚗
 
 
 ### Scene used in the AnyLogic simulation [[video]](https://www.youtube.com/watch?v=acUIbqaz8h4)🛑
