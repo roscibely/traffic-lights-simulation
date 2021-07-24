@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D profile='Immersive' >
+	<head>
+		<meta name='copyright' content='Copyright (c) AnyLogic North America 2013'/>
+	</head>
+<Scene>
+
+<Transform 
+          translation="-2.4 -0.4 0"
+          scale="0.4 0.4 0.4"
+          rotation="1.000000 0.000000 0.000000 0.000000"
+>
+<Group DEF='Import_traffic_sign_pr_9_wrl'>
+ <Transform DEF='dad_GRP_Group1'
+  containerField='children'
+  translation='0 .394 0'
+  rotation='1 0 0 1.571'>
+  <Shape
+   containerField='children'>
+   <Appearance DEF='COL_Material5'
+    containerField='appearance'>
+    <Material DEF='material0'
+     containerField='material'
+     ambientIntensity='.2'
+     shininess='.2'
+     diffuseColor='.145 .408 .478'/>
+   </Appearance>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1
+      0 2 3 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      0 0 0
+      11.811 0 0
+      11.811 0 .394
+      0 0 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1
+      0 2 3 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      0 0 0
+      0 11.811 0
+      11.811 11.811 0
+      11.811 0 0'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1
+      0 2 3 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      0 11.811 0
+      0 0 0
+      0 0 .394
+      0 11.811 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      0 0 .394
+      1.181 1.181 .394
+      0 11.811 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      1.181 1.181 .394
+      0 0 .394
+      11.811 0 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      1.181 1.181 .394
+      11.811 0 .394
+      10.63 1.181 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      10.63 1.181 .394
+      11.811 0 .394
+      10.63 10.63 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      11.811 11.811 .394
+      10.63 10.63 .394
+      11.811 0 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      11.811 11.811 .394
+      1.181 10.63 .394
+      10.63 10.63 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      0 11.811 .394
+      1.181 10.63 .394
+      11.811 11.811 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      1.181 10.63 .394
+      0 11.811 .394
+      1.181 1.181 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance DEF='COL_FrontColor'
+    containerField='appearance'>
+    <Material DEF='material1'
+     containerField='material'
+     ambientIntensity='.2'
+     shininess='.2'
+     diffuseColor='1 1 1'/>
+   </Appearance>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1
+      0 2 3 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      10.63 1.181 .394
+      10.63 10.63 .394
+      1.181 10.63 .394
+      1.181 1.181 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1
+      0 2 3 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      11.811 11.811 0
+      0 11.811 0
+      0 11.811 .394
+      11.811 11.811 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+  <Shape
+   containerField='children'>
+   <Appearance
+    containerField='appearance'
+    USE='COL_Material5'/>
+   <IndexedFaceSet
+    containerField='geometry'
+    solid='false'
+    creaseAngle='.5236'
+    coordIndex='
+      0 1 2 -1
+      0 2 3 -1'>
+    <Coordinate
+     containerField='coord'
+     point='
+      11.811 0 0
+      11.811 11.811 0
+      11.811 11.811 .394
+      11.811 0 .394'/>
+   </IndexedFaceSet>
+  </Shape>
+ </Transform>
+</Group>
+</Transform>
+</Scene>
+</X3D>
