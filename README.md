@@ -5,18 +5,18 @@ This is part of a project: traffic lights simulation with detection and reductio
 
 ## Scene used in the AnyLogic simulation [[video]](https://www.youtube.com/watch?v=acUIbqaz8h4)🛑
 
-<img align="left" src="https://github.com/roscibely/traffic-lights-simulation/blob/master/anylogic-simulation/FOTO_AEREA.png" width="100" height="150">
 
+![Figure](https://github.com/roscibely/traffic-lights-simulation/blob/master/anylogic-simulation/FOTO_AEREA.png)
 
 ### Sensor IR
 
 I. Emitter [[code]](https://github.com/roscibely/traffic-lights-simulation/blob/master/test-sensors/sensor-ir/sensor-ir.ino)
 
-<img align="left" src="https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/infra1.png" width="100" height="150">
+<img src="https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/infra1.png" width="100" height="150">
     
 II. Receiver [[code]](https://github.com/roscibely/traffic-lights-simulation/blob/master/test-sensors/sensor-ir/sensor-ir.ino)
     
-<img align="left" src="https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/receptor.png" width="100" height="150">
+<img src="https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/receptor.png" width="100" height="150">
  
      @MastersThesis{rego2019controle,
           title={SISTEMA AUTOMÁTICO DE REDUÇÃO DE TEMPO DE ESPERA DE PEDESTRE PARA SEMÁFOROS VEICULARES},
