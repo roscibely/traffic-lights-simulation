@@ -1,22 +1,27 @@
-# Traffic Lights Simulation with AnyLogic Personal Learning Edition  🚥
+# Traffic Lights Simulation with AnyLogic [Personal Learning Edition]  🚥
 
-This is part of a project: traffic lights simulation with detection and reductionof pedestrian waiting time in traffic light 🚦___🚶____🚗
-
-
-## Scene used in the AnyLogic simulation [[video]](https://www.youtube.com/watch?v=acUIbqaz8h4)🛑
+This is part of a project: traffic lights simulation with detection and reduction of pedestrian waiting time in traffic light 🚦___🚶____🚗
 
 
-![Figure](https://github.com/roscibely/traffic-lights-simulation/blob/master/anylogic-simulation/FOTO_AEREA.png)
+### Scene used in the AnyLogic simulation [[video]](https://www.youtube.com/watch?v=acUIbqaz8h4)🛑
+
+
+![Figure](https://github.com/roscibely/traffic-lights-simulation/blob/master/images/view3d.png)
+
+### Testing the sensors 
+
+![Figure](https://github.com/roscibely/traffic-lights-simulation/blob/master/images/sensor-test.gif)
+
 
 ### Sensor IR
 
 I. Emitter [[code]](https://github.com/roscibely/traffic-lights-simulation/blob/master/test-sensors/sensor-ir/sensor-ir.ino)
 
-<img src="https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/infra1.png" width="100" height="150">
+<img src="https://github.com/roscibely/traffic-lights-simulation/blob/master/images/infra1.jpeg" width="100" height="150">
     
 II. Receiver [[code]](https://github.com/roscibely/traffic-lights-simulation/blob/master/test-sensors/sensor-ir/sensor-ir.ino)
     
-<img src="https://github.com/roscibely/Traffic-lights-simulation-AnyLogic/blob/master/receptor.png" width="100" height="150">
+<img src="https://github.com/roscibely/traffic-lights-simulation/blob/master/images/infra2.jpeg" width="100" height="150">
  
      @MastersThesis{rego2019controle,
           title={SISTEMA AUTOMÁTICO DE REDUÇÃO DE TEMPO DE ESPERA DE PEDESTRE PARA SEMÁFOROS VEICULARES},
